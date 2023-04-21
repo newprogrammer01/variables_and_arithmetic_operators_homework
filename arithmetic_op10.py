@@ -3,3 +3,7 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. 2^n.
+from math import pow
+n=4
+answer=pow(2,4)
+print(answer)
